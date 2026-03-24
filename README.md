@@ -17,6 +17,7 @@ Desenvolver habilidades de engenharia de prompts para extrair respostas de quali
 
 - Curadoria de Fontes
 As fontes abaixo foram selecionadas por serem abertas, academicamente relevantes e complementares entre si. Cada uma aborda um ângulo diferente da obra de Hitchcock. Vou listar 5 em texto e 5 em vídeo, mas o projeto possui mais de 30 fontes.
+
 #Fontes em texto:
 https://en.wikipedia.org/wiki/Alfred_Hitchcock
 https://www.alfredhitchcock.com/
